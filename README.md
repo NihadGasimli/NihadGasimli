@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan.</h3>
 <img width="400" align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuravision&label=Profile%20views&color=0e75b6&style=flat" alt="nuravision" /> </p>
 
 - 🔭 I’m currently attending a course to improve my development skills.
 
