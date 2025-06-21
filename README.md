@@ -70,3 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihadGasimli&layout=compact&theme=react&hide_border=true" alt="NihadGasimli's Top Languages" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NihadGasimli&show_icons=true&locale=en&layout=compact" alt="NihadGasimli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NihadGasimli&show_icons=true&locale=en" alt="NihadGasimli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NihadGasimli&" alt="NihadGasimli" /></p
+
