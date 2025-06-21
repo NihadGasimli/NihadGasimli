@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihad Gasimli </h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan.</h3>
-<img width="400" align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723ez77458786c81.gif" alt="">
+<img width="400" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhtNGwxbzZ1dnM4MG5ybXBqbWh2emYxcnFodjJnaWM3bjdnOTR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NihadGasimli&label=Profile%20views&color=0e75b6&style=flat" alt="NihadGasimli" /> </p>
 
