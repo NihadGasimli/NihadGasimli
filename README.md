@@ -64,7 +64,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NihadGasimlin&show_icons=true&theme=react&hide_border=true&locale=en" alt="NihadGasimli's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NihadGasimli&show_icons=true&theme=react&hide_border=true&locale=en" alt="NihadGasimli's GitHub Stats" />
 </p>
 
 <h3 align="left">📌 Most Used Languages:</h3>
