@@ -62,13 +62,11 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NihadGasimli&show_icons=true&theme=react&hide_border=true&locale=en" alt="NihadGasimli's GitHub Stats" />
 </p>
 
-<h3 align="left">📌 Most Used Languages:</h3>
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihadGasimli&layout=compact&theme=react&hide_border=true" alt="NihadGasimli's Top Languages" />
 </p>
 
